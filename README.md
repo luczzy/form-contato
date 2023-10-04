@@ -17,7 +17,7 @@
 
 # ***Projeto escrita do README***
 
-![Capa do projeto](img/Formulario.gif)
+![Capa do projeto](img/formulario.gif)
 
 # *Descrição*
 
